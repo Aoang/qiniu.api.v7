@@ -1,1 +1,1 @@
-module github.com/qiniu/api.v7
+module github.com/Aoang/qiniu.api.v7
