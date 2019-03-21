@@ -12,9 +12,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/conf"
-	"github.com/qiniu/api.v7/reqid"
+	"github.com/Aoang/qiniu.api.v7/auth"
+	"github.com/Aoang/qiniu.api.v7/conf"
+	"github.com/Aoang/qiniu.api.v7/reqid"
 )
 
 var UserAgent = "Golang qiniu/client package"

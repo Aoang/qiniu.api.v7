@@ -2,7 +2,7 @@ package storage
 
 import (
 	"fmt"
-	"github.com/qiniu/api.v7/conf"
+	"github.com/Aoang/qiniu.api.v7/conf"
 	"runtime"
 	"testing"
 )

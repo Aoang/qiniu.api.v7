@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/qiniu/api.v7/client"
+	"github.com/Aoang/qiniu.api.v7/client"
 	"hash"
 	"hash/crc32"
 	"io"

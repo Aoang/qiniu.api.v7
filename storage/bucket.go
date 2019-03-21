@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/client"
-	"github.com/qiniu/api.v7/conf"
+	"github.com/Aoang/qiniu.api.v7/auth"
+	"github.com/Aoang/qiniu.api.v7/client"
+	"github.com/Aoang/qiniu.api.v7/conf"
 )
 
 // 资源管理相关的默认域名

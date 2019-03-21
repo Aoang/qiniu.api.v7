@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/cdn"
+	"github.com/Aoang/qiniu.api.v7/auth"
+	"github.com/Aoang/qiniu.api.v7/cdn"
 )
 
 var (

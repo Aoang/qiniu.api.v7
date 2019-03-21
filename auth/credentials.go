@@ -9,8 +9,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/qiniu/api.v7"
-	"github.com/qiniu/api.v7/conf"
+	"github.com/Aoang/qiniu.api.v7"
+	"github.com/Aoang/qiniu.api.v7/conf"
 )
 
 //  七牛鉴权类，用于生成Qbox, Qiniu, Upload签名
